@@ -1,5 +1,5 @@
 # node-rest-api
-Rest com NodeJS: API com Express.
+Rest with NodeJS: API with Express.
 
 <!--lint disable no-literal-urls-->
 <p align="center">
